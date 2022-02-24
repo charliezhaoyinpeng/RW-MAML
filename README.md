@@ -1,4 +1,4 @@
-## code for RW-MAML
+## Code for Nested-MAML
 
 1. Synthetic Regression
 2. Task-level Reweight
